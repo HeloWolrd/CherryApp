@@ -310,6 +310,7 @@ section {
 }
 
 .reviews .slide-container .slide {
+  background: #cae8e3;
   text-align: center;
   max-width: 60rem;
   margin: 1rem auto;
